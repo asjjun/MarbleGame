@@ -1,0 +1,263 @@
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\obj\Debug\MarbleGame.Form1.resources
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\기말프로젝트\MarbleGame\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\MarbleGame\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\MarbleGame\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\MarbleGame\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\MarbleGame\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MarbleGame\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\user\Desktop\MarbleGame\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\MarbleGame\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\MarbleGame\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MarbleGame\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MarbleGame\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\MarbleGame\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\MarbleGame\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\MarbleGame\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\audtj\Desktop\새 폴더\MarbleGame\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\MarbleGame 우주배경최종\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0610_0203\MarbleGame\obj\Debug\MarbleGame.Form1.resources
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.Form1.resources
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0610_0932\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.Form1.resources
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.MG_ShootingGame.resources
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.MG_PingPong.resources
+C:\Users\user\Desktop\마블게임 0611_0156\MarbleGame\obj\Debug\MarbleGame.MG_SpaceShip.resources
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.Form1.resources
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.MG_ShootingGame.resources
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.MG_PingPong.resources
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.MG_SpaceShip.resources
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0611_0611\MarbleGame\obj\Debug\MarbleGame.Gambling.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.Form1.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.Gambling.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.MG_ShootingGame.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.MG_PingPong.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.MG_SpaceShip.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.WorldTravel.resources
+C:\Users\user\Desktop\마블게임 0611_0839\MarbleGame\obj\Debug\MarbleGame.Login.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.Form1.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.WorldTravel.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.Gambling.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.Login.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.MG_ShootingGame.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.MG_PingPong.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.MG_SpaceShip.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0611_1344\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.Form1.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.WorldTravel.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.Gambling.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.Login.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.MG_ShootingGame.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.MG_PingPong.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.MG_SpaceShip.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0611_1532\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.WorldTravel.resources
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.Gambling.resources
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.Login.resources
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.MG_ShootingGame.resources
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.MG_PingPong.resources
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.MG_SpaceShip.resources
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0612_0004\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.WorldTravel.resources
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.Gambling.resources
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.Login.resources
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.MG_ShootingGame.resources
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.MG_PingPong.resources
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.MG_SpaceShip.resources
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.NewInfo.resources
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0612_0337\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.WorldTravel.resources
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.Gambling.resources
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.Login.resources
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.MG_ShootingGame.resources
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.MG_PingPong.resources
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.MG_SpaceShip.resources
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\user\Desktop\마블게임 0612_0417\MarbleGame\obj\Debug\MarbleGame.ChanceCard.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.ChanceCard.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.WorldTravel.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.Gambling.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.Login.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.MG_ShootingGame.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.MG_PingPong.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.MG_SpaceShip.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\user\Desktop\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.csprojAssemblyReference.cache
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\bin\Debug\MarbleGame.exe.config
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\bin\Debug\MarbleGame.exe
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\bin\Debug\MarbleGame.pdb
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.ChanceCard.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.WorldTravel.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.Gambling.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.Menu.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.Login.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.MainForm.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.MG_ShootingGame.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.MG_PingPong.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.MG_SpaceShip.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.Join.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.Properties.Resources.resources
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.csproj.GenerateResource.cache
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.csproj.CoreCompileInputs.cache
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.exe
+C:\Users\세준\Desktop\마블프로젝트\안세준_신재혁_김명섭\MarbleGame\obj\Debug\MarbleGame.pdb
